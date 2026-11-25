@@ -1,0 +1,24 @@
+{
+  "name": "storyarc",
+  "version": "1.0.0",
+  "description": "Maps a topic or rough draft onto four proven narrative structures with open loops, enforcing one concrete detail per beat so every line earns the next across reels, carousels, and YouTube intros.",
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks-codex.json",
+  "interface": {
+    "displayName": "storyarc",
+    "shortDescription": "Turns any rough idea into a beat-by-beat script or carousel with open loops.",
+    "longDescription": "Maps a topic or rough draft onto four proven narrative structures with open loops, enforcing one concrete detail per beat so every line earns the next across reels, carousels, and YouTube intros.",
+    "developerName": "Alessandro Smedile",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/alexsmedile/storyarc",
+    "defaultPrompt": [
+      "Turn this rough topic into a beat-by-beat carousel with an open loop",
+      "Restructure this reel draft so people keep watching to the end"
+    ],
+    "brandColor": "#E51717"
+  }
+}

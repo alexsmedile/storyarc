@@ -1,0 +1,34 @@
+{
+  "name": "storyarc",
+  "owner": {
+    "name": "Alessandro Smedile"
+  },
+  "metadata": {
+    "description": "Maps a topic or rough draft onto four proven narrative structures with open loops, enforcing one concrete detail per beat so every line earns the next across reels, carousels, and YouTube intros.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "storyarc",
+      "source": "./",
+      "description": "Maps a topic or rough draft onto four proven narrative structures with open loops, enforcing one concrete detail per beat so every line earns the next across reels, carousels, and YouTube intros.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alessandro Smedile"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/alexsmedile/storyarc",
+      "repository": "https://github.com/alexsmedile/storyarc",
+      "keywords": [
+        "skills",
+        "claude-code",
+        "storyarc",
+        "storytelling",
+        "retention",
+        "scripts",
+        "carousels"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
